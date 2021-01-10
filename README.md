@@ -1,0 +1,2 @@
+# GlobalAIHubMLCourse
+Introduction to ML
